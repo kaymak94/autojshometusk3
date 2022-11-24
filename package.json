@@ -1,0 +1,15 @@
+{
+  "name": "jsautohometusk3-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.12.3",
+    "playwright": "^1.12.3"
+  }
+}
