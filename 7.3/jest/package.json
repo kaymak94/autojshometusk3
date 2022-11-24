@@ -29,9 +29,13 @@
   "author": "omelnikova",
   "license": "ISC",
   "devDependencies": {
+    "@playwright/test": "^1.28.1",
     "jest": "^29.3.1"
   },
   "directories": {
     "test": "test"
+  },
+  "dependencies": {
+    "playwright": "^1.28.1"
   }
 }

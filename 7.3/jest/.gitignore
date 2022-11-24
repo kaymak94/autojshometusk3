@@ -12,3 +12,6 @@ user.js
 /playwright-report/
 /playwright/.cache/
 .history/
+/test-results/
+/playwright-report/
+/playwright/.cache/
